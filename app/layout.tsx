@@ -8,7 +8,7 @@ import { Toaster } from "@/components/ui/sonner"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Shubham Singh Saini",
+  title: "Ankit Dhaka",
   description: "Personal portfolio website showcasing my work and skills",
   icons: {
     icon: "/favicon.png"
