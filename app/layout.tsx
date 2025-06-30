@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 import { Toaster } from "@/components/ui/sonner"
 
 const inter = Inter({ subsets: ["latin"] })
-
+//
 export const metadata: Metadata = {
   title: "Ankit Dhaka",
   description: "Personal portfolio website showcasing my work and skills",
