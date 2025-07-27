@@ -56,7 +56,7 @@ export function Navbar() {
               </a>
             ))}
             <a
-              href="https://drive.google.com/file/d/1tL8Xyxe3PxaGeQkjzocyOWbhaLuEFzYx/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1VCOEm2kIlT69V5EfokdmjyyX_94-dbtY/view?usp=sharing"
               target="_blank"
               className="text-sm font-medium hover:text-gray-600 dark:hover:text-gray-500 transition-colors"
             >
@@ -109,7 +109,7 @@ export function Navbar() {
                 </a>
               ))}
               <a
-                href="https://drive.google.com/file/d/1tL8Xyxe3PxaGeQkjzocyOWbhaLuEFzYx/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1VCOEm2kIlT69V5EfokdmjyyX_94-dbtY/view?usp=sharing"
                 target="_blank"
                 className="block px-3 py-2 text-base font-medium hover:bg-gray-100 dark:hover:bg-gray-900 rounded-md"
               >
